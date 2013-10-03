@@ -4,4 +4,4 @@
 keys.sh - toogle backlight on keyboard
 
 
-leds.sh - toggle screen brightness
+led.sh  - toggle screen brightness
